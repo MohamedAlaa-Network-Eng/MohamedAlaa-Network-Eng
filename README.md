@@ -2,7 +2,7 @@
 
 ### Junior Network Engineer | Cisco CCNAv7 Trained | Giza, Egypt
 
-Electrical Communications and Electronics Engineering graduate (July 2026). I build, secure, and troubleshoot enterprise-style networks in Cisco Packet Tracer, and I'm looking for a **Junior Network Engineer** role.
+Electrical Communications and Electronics Engineering graduate . I build, secure, and troubleshoot enterprise-style networks in Cisco Packet Tracer, and I'm looking for a **Junior Network Engineer** role.
 
 ---
 
