@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Alaa Eldin 👋
 
-### Junior Network Engineer | Cisco CCNAv7 Trained | Giza, Egypt
+### Junior Network Engineer | Cisco Trained | Giza, Egypt
 
 Electrical Communications and Electronics Engineering graduate . I build, secure, and troubleshoot enterprise-style networks in Cisco Packet Tracer, and I'm looking for a **Junior Network Engineer** role.
 
